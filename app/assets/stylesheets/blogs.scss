@@ -1,0 +1,13 @@
+// Place all the styles related to the Blogs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body
+{
+    background-color: darken($color: #cbcca9, $amount: 0); 
+    text-decoration-color: darken($color: #ffffff, $amount: 0);  
+}
+
+.top a {
+    color: white;
+}
